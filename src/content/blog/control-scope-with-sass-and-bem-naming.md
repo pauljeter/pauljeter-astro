@@ -83,7 +83,7 @@ Now, clicking the element logs the correct context (`foo`), showcasing effective
 
 ## How Does This Relate to Sass?
 
-Let’s transfer this concept to Sass and manage CSS scope similarly with a `$self` variable.
+Let's transfer this concept to Sass and manage CSS scope similarly with a `$self` variable.
 
 Given this markup:
 
@@ -231,4 +231,4 @@ Using `$self` this way ensures flexibility and clarity even in complex scenarios
 
 ## Wrapping Up
 
-By borrowing a page from JavaScript's playbook, we've effectively managed scope in Sass. Setting `$self: &` at the root of your component gives you more control over your selectors, resulting in cleaner, more maintainable CSS. Give it a try—it could revolutionize how you structure your BEM components.
+By borrowing a page from JavaScript's playbook, we've effectively managed scope in Sass. Setting `$self: &` at the root of your component gives you more control over your selectors, resulting in cleaner, more maintainable CSS. Give it a try, it could revolutionize how you structure your BEM components.

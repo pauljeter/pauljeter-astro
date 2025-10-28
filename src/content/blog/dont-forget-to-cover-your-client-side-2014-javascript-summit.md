@@ -32,7 +32,7 @@ test - A procedure intended to establish the quality performance, or reliability
 
 ### A unit test therefore is…
 
-A method by which we determine if a given “unit” of code behaves as expected by asserting it’s results given certain parameters and conditions.
+A method by which we determine if a given "unit" of code behaves as expected by asserting it's results given certain parameters and conditions.
 
 Prevent Bugs
 
@@ -81,7 +81,7 @@ If you don't do it, someone else will.
 
 - The solution needs to be the simplest solution
 - Be sure to isolate to a unit
-- Don’t write “future code” write “make it pass” code
+- Don't write "future code" write "make it pass" code
 - Improve the design of the API
 - Makes refactoring easier
 - Helps reduce coupling
@@ -97,9 +97,9 @@ If you don't do it, someone else will.
 
 - Client side unit testing presents different challenges than server side testing.
 - That whole DOM thing
-- It’s tempting to just “reload develop”
-- “More code”
-- “More work”
+- It's tempting to just "reload develop"
+- "More code"
+- "More work"
 
 ## Getting Started
 
@@ -228,8 +228,8 @@ test('propEqual', function() {
 
 ###  Assertions
 
-- Every assertion has a “not”
-- They aren’t used very often though
+- Every assertion has a "not"
+- They aren't used very often though
 - `notOk`, `notEqual`, etc…
 
 ### Async

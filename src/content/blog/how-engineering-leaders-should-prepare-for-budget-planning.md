@@ -7,7 +7,7 @@ category: "Leadership"
 tags: ["Budget Planning", "Leadership", "Engineering Management", "Strategy"]
 ---
 
-Budget season can feel overwhelming, especially if you're an engineering leader navigating competing demands from finance, product, and your own team. With that in mind, let’s dive into what budget planning is, what it isn’t, how you should prepare, and common pitfalls to avoid.
+Budget season can feel overwhelming, especially if you're an engineering leader navigating competing demands from finance, product, and your own team. With that in mind, let's dive into what budget planning is, what it isn't, how you should prepare, and common pitfalls to avoid.
 
 ## What Is Budget Planning?
 
@@ -32,9 +32,9 @@ Whether you're leading the entire engineering budget or managing a smaller porti
 
 ### 1. Review and Estimate Key Areas
 
-- **People:** Understand your current team composition and identify any additional roles you’ll need.
+- **People:** Understand your current team composition and identify any additional roles you'll need.
 - **Projects:** Know what your team is currently working on and what has been promised or planned but not yet resourced.
-- **Costs:** Calculate your expected expenses—people are usually the bulk, but don't forget recruiting fees, cloud infrastructure, developer tools, and other technology costs.
+- **Costs:** Calculate your expected expenses; people are usually the bulk, but don't forget recruiting fees, cloud infrastructure, developer tools, and other technology costs.
 
 ### 2. Be Ready for Negotiations
 
@@ -49,7 +49,7 @@ Expect challenging conversations and prepare answers for common pushbacks:
 Budget planning can be stressful, but recognizing these common pitfalls can help you avoid them:
 
 ### Mistake #1: Avoiding or Resenting the Process  
-Budget planning isn’t fun for most technical leaders. However, embracing it positions you to best advocate for your team and resources. The business relies on your input—so engage proactively.
+Budget planning isn't fun for most technical leaders. However, embracing it positions you to best advocate for your team and resources. The business relies on your input, so engage proactively.
 
 ### Mistake #2: Overlooking Fixed Costs  
 Engineering teams often spend more than half of their capacity on ongoing support and maintenance. Ensure these fixed costs are clearly understood and included. Accurate historical data significantly strengthens your position in negotiations.
@@ -61,11 +61,11 @@ Learn from past budget cycles. Review prior assumptions, identify where things w
 Hiring is costly and time-consuming, and new team members won't reach peak productivity immediately. Ensure you factor onboarding and ramp-up periods into your budgeting assumptions. Leveraging historical data helps make realistic projections.
 
 ### Mistake #5: Dismissing or Avoiding Estimates  
-Engineers often resist estimating work because it's inherently uncertain. However, estimates grounded in historical data can guide productive conversations. If engineering avoids providing these estimates, someone else (usually finance) will do it for you—and that rarely ends well.
+Engineers often resist estimating work because it's inherently uncertain. However, estimates grounded in historical data can guide productive conversations. If engineering avoids providing these estimates, someone else (usually finance) will do it for you, and that rarely ends well.
 
 ### Mistake #6: Focusing Too Much on Estimates  
-While accurate estimates matter, obsessing over precise numbers can become counterproductive. If you're pressured to reduce estimates, don't immediately comply without addressing the broader context and risks involved. Estimates are one piece of a bigger picture—not the only focus.
+While accurate estimates matter, obsessing over precise numbers can become counterproductive. If you're pressured to reduce estimates, don't immediately comply without addressing the broader context and risks involved. Estimates are one piece of a bigger picture, not the only focus.
 
 ## Final Thoughts
 
-Though annual planning might seem tedious, it's crucial to your team's success next year. Your insights and leadership can make the difference between realistic, achievable goals and frustrating shortfalls. Engage proactively, leverage your data, learn from the past, and advocate effectively. If you don't lead these conversations, rest assured someone else will—and probably without the insights your experience provides.
+Though annual planning might seem tedious, it's crucial to your team's success next year. Your insights and leadership can make the difference between realistic, achievable goals and frustrating shortfalls. Engage proactively, leverage your data, learn from the past, and advocate effectively. If you don't lead these conversations, rest assured someone else will, and probably without the insights your experience provides.

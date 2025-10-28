@@ -58,14 +58,14 @@ Even with preventative measures, technical debt is unavoidable, making debt mana
 Address debt in frequently modified or critical areas first. Reducing this high-impact debt significantly benefits overall productivity and quality.
 
 **Continuous Refactoring (Boy Scout Rule)**  
-Adopt a culture of incremental improvement: always leave code better than you found it. Allocate a portion of each sprint specifically for reducing technical debt—typically around 5-15%.
+Adopt a culture of incremental improvement: always leave code better than you found it. Allocate a portion of each sprint specifically for reducing technical debt, typically around 5-15%.
 
 **Combine Debt Repayment with Customer Value**  
 Rather than dedicating entire sprints to technical debt, blend improvements into regular development cycles. This maintains client satisfaction while sustainably managing technical debt.
 
 **Knowing When to Ignore Debt**  
-Occasionally, ignoring technical debt is acceptable—particularly in short-lived prototypes or end-of-life projects where addressing it won't add significant value.
+Occasionally, ignoring technical debt is acceptable, particularly in short-lived prototypes or end-of-life projects where addressing it won't add significant value.
 
 ### Conclusion
 
-Technical debt is a reality in software engineering—entirely unavoidable but fully manageable. Cultivating a culture of awareness, proactive prevention, continuous improvement, and strategic management will ensure technical debt remains an asset rather than a burden. Ultimately, success in software development hinges not on avoiding debt altogether, but on handling it intelligently and thoughtfully.
+Technical debt is a reality in software engineering, entirely unavoidable but fully manageable. Cultivating a culture of awareness, proactive prevention, continuous improvement, and strategic management will ensure technical debt remains an asset rather than a burden. Ultimately, success in software development hinges not on avoiding debt altogether, but on handling it intelligently and thoughtfully.

@@ -7,12 +7,12 @@ heroImage: '/images/angularjs-2.jpg'
 
 AngularJS makes dealing with forms extremely easy. When it comes to two-way data-binding to the way it helps us handle form validation, Angular really helps us process forms.
 
-We’ve written in the past on the great features of Angular in forms and how to process forms. Today will be a quick tutorial on dealing with checkboxes and radio buttons in Angular forms.
+We've written in the past on the great features of Angular in forms and how to process forms. Today will be a quick tutorial on dealing with checkboxes and radio buttons in Angular forms.
 
-There are many different use cases for checkboxes and many different ways we can process them. We’ll take a look at the ways to bind checkboxes and radio buttons to data variables and the ways we can tweak them.
+There are many different use cases for checkboxes and many different ways we can process them. We'll take a look at the ways to bind checkboxes and radio buttons to data variables and the ways we can tweak them.
 
 ### Setting Up Our Angular Form
-For this tutorial, we will need 2 files. index.html and app.js. app.js will hold all of our Angular code (it won’t be much) and index.html will be where all the action happens. Let’s create our AngularJS file first.
+For this tutorial, we will need 2 files. index.html and app.js. app.js will hold all of our Angular code (it won't be much) and index.html will be where all the action happens. Let's create our AngularJS file first.
 
 ```javascript
 // app.js
@@ -30,7 +30,7 @@ var formApp = angular.module('formApp', [])
 
 All we do in this file is set up our Angular application. We will also create a controller and an object to hold all of our form data.
 
-Now let’s look at our index.html file where we will create our form and do all of our data binding. We’ll be using Bootstrap to help speed up our stylings.
+Now let's look at our index.html file where we will create our form and do all of our data binding. We'll be using Bootstrap to help speed up our stylings.
 
 ```html
 <!-- index.html -->
@@ -89,9 +89,9 @@ Now let’s look at our index.html file where we will create our form and do all
 With this setup, we will now have our form ready to go with a name input. If all went according to plan, if you type into that name input, you should see your data populate in the <pre> tag below.
 
 ### Checkboxes
-Checkboxes are extremely common in any form. Let’s look at how Angular binds their data using ngModel. When there are many checkboxes, sometimes it can be confusing to now how to handle that data when binding it to an object.
+Checkboxes are extremely common in any form. Let's look at how Angular binds their data using ngModel. When there are many checkboxes, sometimes it can be confusing to now how to handle that data when binding it to an object.
 
-Inside of the formData object we created, we will create another object. Let’s call this one favoriteColors and ask our user what their favorite colors are.
+Inside of the formData object we created, we will create another object. Let's call this one favoriteColors and ask our user what their favorite colors are.
 
 ```html
     <!-- MULTIPLE CHECKBOXES -->
@@ -151,7 +151,7 @@ Per the official docs, here are the different things you are able to do with che
   For more information on the things you can do with checkboxes, read the Angular input[checkbox] docs.
 
 ### Radio Buttons
-Radio buttons are a little bit easier than checkboxes since we don’t have to store multiple values. A radio button will just be one value since you can only select one thing. Let’s add in radio boxes and see how they are data-bound.
+Radio buttons are a little bit easier than checkboxes since we don't have to store multiple values. A radio button will just be one value since you can only select one thing. Let's add in radio boxes and see how they are data-bound.
 
 ```html
     <input type="radio"
@@ -165,7 +165,7 @@ Radio buttons are a little bit easier than checkboxes since we don’t have to s
 For more information on the things you can do with checkboxes, read the Angular input[checkbox] docs.
 
 ### Radio Buttons
-Radio buttons are a little bit easier than checkboxes since we don’t have to store multiple values. A radio button will just be one value since you can only select one thing. Let’s add in radio boxes and see how they are data-bound.
+Radio buttons are a little bit easier than checkboxes since we don't have to store multiple values. A radio button will just be one value since you can only select one thing. Let's add in radio boxes and see how they are data-bound.
 
 ```html
     <!-- RADIO BUTTONS -->

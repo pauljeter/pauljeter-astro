@@ -13,7 +13,7 @@ tags:
   - "web-development"
 ---
 
-CSS3 defines three new attribute selector variations. These selectors give us the ability to make partial matches to attribute values—we can match strings at the start, end, or anywhere within an attribute value.
+CSS3 defines three new attribute selector variations. These selectors give us the ability to make partial matches to attribute values. We can match strings at the start, end, or anywhere within an attribute value.
 
 We can use the ^= operator to cause an attribute selector to match elements that have an attribute containing a value that starts with the specified value:
 
@@ -23,7 +23,7 @@ a[href^="http:"] {
 }
 ```
 
-This example matches a elements that have an href attribute value which starts with the characters “http:”.
+This example matches a elements that have an href attribute value which starts with the characters "http:".
 
 Using the $= operator, an attribute selector can match elements that have an attribute which contains a value ending with the specified value:
 
@@ -33,7 +33,7 @@ img[src$=".png"] {
 }
 ```
 
-This example matches a elements that have an href attribute value which starts with the characters “http:”.
+This example matches a elements that have an href attribute value which starts with the characters "http:".
 
 Using the $= operator, an attribute selector can match elements that have an attribute which contains a value ending with the specified value:
 
@@ -43,4 +43,4 @@ div[id*="foo"] {
 }
 ```
 
-This example matches div elements whose id attribute value contains the characters “foo”.
+This example matches div elements whose id attribute value contains the characters "foo".

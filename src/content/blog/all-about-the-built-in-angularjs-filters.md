@@ -6,11 +6,11 @@ heroImage: '/images/angularjs-2.jpg'
 ---
 
 ### Introduction
-You may not know this – but AngularJS comes with many handy filters built-in. I see programmers reinventing the wheel and reimplementing functionality that already exists all the time. Sometimes this happens because you need to address a specific use case but more often than not, it’s simply because the programmer wasn’t aware that the functionality was already there.
+You may not know this – but AngularJS comes with many handy filters built-in. I see programmers reinventing the wheel and reimplementing functionality that already exists all the time. Sometimes this happens because you need to address a specific use case but more often than not, it's simply because the programmer wasn't aware that the functionality was already there.
 
 In this article, I will go over the many filters that AngularJS provides out of the box. Most of these are documented in the Angular Docs but lack real world examples, so I will approach this topic with a plethora of code samples and real world uses.
 
-Let’s jump right into it!
+Let's jump right into it!
 
 ### Applying and Using Filters
 Filters, as the name implies, allow you to manipulate and filter the presentation of your views. You can apply Angular filters directly by extending the bindings in your HTML views such as:
@@ -36,7 +36,7 @@ The syntax for applying filters in your JavaScript files will look like this:
 
 This filter is equivalent to `{{ 15 | number:5 }}` and both will render the number 15 as string to five decimal places (i.e. 15.00000) in your view.
 
-It’s ok if you don’t fully grasp what we’re doing so far, we are just going over the syntax here – next we’ll walk through the built in filters and how they can improve the presentation of your apps.
+It's ok if you don't fully grasp what we're doing so far, we are just going over the syntax here – next we'll walk through the built in filters and how they can improve the presentation of your apps.
 
 ### String Manipulation – Uppercase and Lowercase
 AngularJS comes with prebuilt filters for making a string upper or lower-case. The uppercase and lowercase filters will do what their name implies, either convert a string to all uppercase characters, or convert the string to all lowercase characters.
@@ -87,7 +87,7 @@ This works really well if you are writing an app that will only deal with dollar
 
 For example if we wanted to display the currency in euros, our code would look like {{ totalCost | currency:'€' }}. Additionally, in Angular 1.3+, the currency filter can further be expanded to support rounding up of numbers to as many decimal places as you want – or none at all.
 
-To specify the number of decimal places, you would again just pass another parameter to the currency filter such as {{ totalCost | currency:'$':4 }}, and this would render the number as “$15.0000″ if totalCost was 15.
+To specify the number of decimal places, you would again just pass another parameter to the currency filter such as {{ totalCost | currency:'$':4 }}, and this would render the number as "$15.0000" if totalCost was 15.
 
 ```
 // JavaScript
@@ -139,7 +139,7 @@ Custom Date Filter:
 ```
 
 ### JSON
-The JSON built in filter in Angular converts a json string and prettifies it by including indentation so that the JSON is much easier to read. There really isn’t anything else to say about this filter, it doesn’t allow for any additional parameters to be passed into it, it simply converts an object to easily readable JSON.
+The JSON built in filter in Angular converts a json string and prettifies it by including indentation so that the JSON is much easier to read. There really isn't anything else to say about this filter, it doesn't allow for any additional parameters to be passed into it, it simply converts an object to easily readable JSON.
 
 Check out the simple CodePen below to see this illustrated.
 
@@ -155,11 +155,11 @@ JSON Filter:
 ```
 
 ### LimitTo
-The LimitTo filter, as it’s name implies, allows you to limit some string or array to a certain length. For example, applying a limitTo:10 filter to a string that contains 15 characters, would only display the first 10 characters of that string.
+The LimitTo filter, as it's name implies, allows you to limit some string or array to a certain length. For example, applying a limitTo:10 filter to a string that contains 15 characters, would only display the first 10 characters of that string.
 
 LimitTo can also be applied to arrays and can be very powerful and intuitive when used in conjunction with ng-repeat. Combining limitTo and ng-repeat, you could very easily build a pagination system for your app for example.
 
-One common use case where the limitTo filter can come in handy is preview text. Say you’re building the front-page for your blog in AngularJS and want to show a preview of the first 250 characters of each blog post. This can easily be accomplished by the following code {{ previewCopy | limitTo: 250 }}.
+One common use case where the limitTo filter can come in handy is preview text. Say you're building the front-page for your blog in AngularJS and want to show a preview of the first 250 characters of each blog post. This can easily be accomplished by the following code {{ previewCopy | limitTo: 250 }}.
 
 Check out the CodePen below to see how we apply the ellipses(…) to the end if the previewCopy is over the character limit.
 
@@ -182,6 +182,6 @@ LimitTo Filter Applied to an Array:
 ```
 
 ### Conclusion
-We’ve gone over all of the built-in AngularJS filters. The built-in filters provide a variety of functionality from simple uppercasing of a string to complex manipulation of dates.
+We've gone over all of the built-in AngularJS filters. The built-in filters provide a variety of functionality from simple uppercasing of a string to complex manipulation of dates.
 
-We went over the different ways to apply filters, the most common being by applying the filter directly in the binding, but I’ve also shown you how to apply the filter through JavaScript.
+We went over the different ways to apply filters, the most common being by applying the filter directly in the binding, but I've also shown you how to apply the filter through JavaScript.

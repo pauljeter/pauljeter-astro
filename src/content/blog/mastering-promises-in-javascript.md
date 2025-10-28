@@ -1,35 +1,35 @@
 ---
 title: 'Mastering Promises in JavaScript'
-description: 'Learn what JavaScript promises are, how to use them, and why they’re a cleaner alternative to callbacks for handling async operations.'
+description: 'Learn what JavaScript promises are, how to use them, and why they're a cleaner alternative to callbacks for handling async operations.'
 pubDate: '2018-06-14'
 heroImage: '/images/javascript.jpg'
 category: 'JavaScript'
 tags: ['JavaScript', 'Promises', 'Async']
 ---
 
-When you first encounter **promises** in JavaScript, they can seem a little abstract. Why are they called promises? What’s actually being promised? And how are they better than callbacks?
+When you first encounter **promises** in JavaScript, they can seem a little abstract. Why are they called promises? What's actually being promised? And how are they better than callbacks?
 
-Let’s break this down.
+Let's break this down.
 
 ## What is a Promise?
 
-A **promise** is an object representing the eventual completion or failure of an asynchronous operation. Think of it as a placeholder for a value that hasn’t arrived yet but will in the future.
+A **promise** is an object representing the eventual completion or failure of an asynchronous operation. Think of it as a placeholder for a value that hasn't arrived yet but will in the future.
 
 It has three possible states:
 
-- **Pending** – it hasn’t completed yet
+- **Pending** – it hasn't completed yet
 - **Fulfilled** – it completed successfully
 - **Rejected** – it failed
 
-Here’s an analogy that makes this more intuitive.
+Here's an analogy that makes this more intuitive.
 
-Imagine you ask a friend, Ben, to pick up a birthday cake. He agrees. That agreement is a promise. He hasn’t delivered the cake yet – so the promise is still pending. If he brings it, the promise is fulfilled. If he forgets, the promise is rejected.
+Imagine you ask a friend, Ben, to pick up a birthday cake. He agrees. That agreement is a promise. He hasn't delivered the cake yet – so the promise is still pending. If he brings it, the promise is fulfilled. If he forgets, the promise is rejected.
 
 ```js
 const promise = benBuysCake('chocolate')
 ```
 
-And here’s how you handle the result:
+And here's how you handle the result:
 
 ```js
 benBuysCake('chocolate')
@@ -137,6 +137,6 @@ Modern browsers support Promises natively. For older browsers like IE11, a polyf
 
 ## Conclusion
 
-Promises are now a fundamental part of JavaScript. They make async logic more readable, less error-prone, and easier to debug. If you’ve used callbacks in the past, switching to Promises is a worthwhile upgrade.
+Promises are now a fundamental part of JavaScript. They make async logic more readable, less error-prone, and easier to debug. If you've used callbacks in the past, switching to Promises is a worthwhile upgrade.
 
 That said, callbacks still have their place – especially in low-level APIs. But when writing modern JavaScript, Promises are a safe bet.

@@ -1,5 +1,5 @@
 ---
-title: "HTML5 Can’t Do That: Surveying the Mobile Landscape, Nathan Smith"
+title: "HTML5 Can't Do That: Surveying the Mobile Landscape, Nathan Smith"
 description: ""
 pubDate: 2013-10-09
 heroImage: '/images/html5.jpg'

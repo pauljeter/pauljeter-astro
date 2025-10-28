@@ -5,7 +5,7 @@ pubDate: '2025-04-05'
 heroImage: '/images/wordpress-to-astro.jpg'
 ---
 
-Many years ago, I cut my web development teeth on WordPress and I've been using it for my personal website for years. Recently, I decided to transition my personal website from WordPress to Astro—a modern static site generator built on JavaScript. Here’s why I made the switch and how it aligns with my experience and expectations.
+Many years ago, I cut my web development teeth on WordPress, and I've been using it for my personal website for years. Recently, I decided to transition my personal website from WordPress to Astro, a modern static site generator built on JavaScript. Here's why I made the switch and how it aligns with my experience and expectations.
 
 ## Why I Made the Switch
 
@@ -19,7 +19,7 @@ Astro, being a static site generator, compiles all pages at build time into HTML
 
 WordPress provides countless plugins and themes but often at the cost of bloated codebases, potential security vulnerabilities, and increased maintenance efforts. While custom development within WordPress is possible, it typically demands substantial additional time and effort.
 
-Astro offers granular control over which JavaScript libraries and frameworks—such as React or Vue—I incorporate. By default, Astro includes no unnecessary JavaScript, enabling me to build precisely the lightweight, secure, and maintainable site I need.
+Astro offers granular control over which JavaScript libraries and frameworks, such as React or Vue, I incorporate. By default, Astro includes no unnecessary JavaScript, enabling me to build precisely the lightweight, secure, and maintainable site I need.
 
 ### Scalability and Reduced Maintenance
 

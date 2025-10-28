@@ -5,7 +5,7 @@ pubDate: '2013-12-05'
 heroImage: '/images/bower.jpg'
 ---
 
-Bower is a front-end package manager originally developed by Twitter. With experience spanning over a decade in front-end development, working with tools like Angular, React, jQuery, and WordPress, I’ve come to appreciate tools that streamline my workflow. Bower does exactly that for managing web resources.
+Bower is a front-end package manager originally developed by Twitter. With experience spanning over a decade in front-end development, working with tools like Angular, React, jQuery, and WordPress, I've come to appreciate tools that streamline my workflow. Bower does exactly that for managing web resources.
 
 ## Why Use Bower?
 
@@ -19,7 +19,7 @@ There are several compelling reasons to use a front-end package manager like Bow
 
 ### Traditional Method
 
-You’d typically:
+You'd typically:
 
 - Visit jQuery.com
 - Find and download the required version

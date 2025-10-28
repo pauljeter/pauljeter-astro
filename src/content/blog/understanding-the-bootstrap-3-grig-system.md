@@ -5,7 +5,7 @@ pubDate: '2014-08-30'
 heroImage: '/images/bootstrap-3.jpg'
 ---
 
-Bootstrap 3 has introduced significant changes to its grid system, adopting a mobile-first approach. With my experience in front-end development over two decades, working extensively with responsive frameworks like Bootstrap, here’s my guide to understanding and utilizing this powerful tool.
+Bootstrap 3 has introduced significant changes to its grid system, adopting a mobile-first approach. With my experience in front-end development over two decades, working extensively with responsive frameworks like Bootstrap, here's my guide to understanding and utilizing this powerful tool.
 
 ## What's New in Bootstrap 3?
 
@@ -107,7 +107,7 @@ For a layout that changes from one column on mobile to two columns on medium dev
 
 ### Advanced: Different Grid for Each Device Size
 
-Here’s a scenario where each device size has a unique layout:
+Here's a scenario where each device size has a unique layout:
 
 - XS devices: 2 columns
 - SM devices: 3 columns

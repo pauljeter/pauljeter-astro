@@ -17,7 +17,7 @@ Getting started and installing is easy. First, go to the [Backbone.js](http://ww
 
 ##  Dependancies
 
- BackboneJS’s only dependancies are [jQuery](http://jquery.com/download/ "jQuery Downloads") and [UnderscoreJS](http://underscorejs.org/ "UnderscoreJS"). Underscore provides many helper methods and can be interchanged with [Lo-Dash](http://lodash.com/ "Lo-Dash") (more about this in future articles).
+ BackboneJS's only dependancies are [jQuery](http://jquery.com/download/ "jQuery Downloads") and [UnderscoreJS](http://underscorejs.org/ "UnderscoreJS"). Underscore provides many helper methods and can be interchanged with [Lo-Dash](http://lodash.com/ "Lo-Dash") (more about this in future articles).
 
 ##  Installation
 
@@ -37,7 +37,7 @@ Getting started and installing is easy. First, go to the [Backbone.js](http://ww
   </html>
 ```
 
-That’s it! Now you can start developing your Single Page Apps. [Next, we’ll dive into Backbone Models](http://www.pauljeter.net/web-development/javascript/backbonejs/what-is-a-backbonejs-model/ "What is a BackboneJS Model?").
+That's it! Now you can start developing your Single Page Apps. [Next, we'll dive into Backbone Models](http://www.pauljeter.net/web-development/javascript/backbonejs/what-is-a-backbonejs-model/ "What is a BackboneJS Model?").
 
 ### Digging into Backbone.js series:
 

@@ -70,7 +70,7 @@ Child Selectors (only 1 deep) - shallow selectors
   
 Sass
 
-- Nesting for naming conventions (be careful, don’t go too deep)
+- Nesting for naming conventions (be careful, don't go too deep)
 - @extend
 - @extend with %btn - placeholder selector to keep from outputting to compiled CSS
 

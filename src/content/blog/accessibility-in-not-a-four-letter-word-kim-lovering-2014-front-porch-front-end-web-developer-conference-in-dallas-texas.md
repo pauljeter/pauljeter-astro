@@ -25,11 +25,11 @@ What is web accessibility?
 
 Why?
 
-- Moral Obligation. Don’t be a jerk
-- Don’t cut off users
+- Moral Obligation. Don't be a jerk
+- Don't cut off users
 - Americans with disabilities act (its the law)
 
-It’s not just for the blind, People.
+It's not just for the blind, People.
 
 - Visual Disabilities
     - Low vision, legally blind color blindness
@@ -40,7 +40,7 @@ It’s not just for the blind, People.
 - Cognitive Disabilities
 
 Great, so now what?  
-These don’t guarantee an accessible site, but they represent a great starting point.
+These don't guarantee an accessible site, but they represent a great starting point.
 
 - Document Structure
 - Image alt text
@@ -55,11 +55,11 @@ Document Structure
 - Keyboard Accessible
 
 Image Alt Text  
-This seems basic, but it’s amazing the quality of code that you can find out there.
+This seems basic, but it's amazing the quality of code that you can find out there.
 
-- Contextual meaning? Use <img alt=“description here”>
+- Contextual meaning? Use <img alt="description here">
 - Purely decorative? Throw it in your CSS as a background image or use bland alt.
-- Caption cover your info? Use a blank alt. (only if the image isn’t wrapped with an individual link).
+- Caption cover your info? Use a blank alt. (only if the image isn't wrapped with an individual link).
 
 Table Structure
 
@@ -67,7 +67,7 @@ Table Structure
 - Defining your table headers (th) are the most important
 
 Link Text  
-Links that are just “click here”, “select”, “learn more” are too ambiguous for a user not being presented any other information.
+Links that are just "click here", "select", "learn more" are too ambiguous for a user not being presented any other information.
 
 - Use hidden text to allow links to be unique and clear
 

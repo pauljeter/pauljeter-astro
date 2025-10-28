@@ -58,7 +58,7 @@ BEM provides a shared vocabulary that developers, designers, and other team memb
 ### 4. Enhanced Developer Confidence
 As Harry Roberts highlights, adopting a methodology like BEM increases developer confidence. Developers understand exactly what a piece of code affects, making them less fearful about modifying or removing styles.
 
-Philip Walton echoes this sentiment, emphasizing that strict adherence to BEM gives you confidence that CSS changes won’t create unexpected side-effects.
+Philip Walton echoes this sentiment, emphasizing that strict adherence to BEM gives you confidence that CSS changes won't create unexpected side-effects.
 
 ### 5. Low CSS Specificity
 By relying primarily on flat, single-class selectors, BEM helps maintain low specificity, reducing the likelihood of CSS conflicts.
@@ -153,6 +153,6 @@ This compiles to:
 
 ## Final Thoughts
 
-While BEM isn’t a universal solution to every CSS problem, it is a powerful methodology for creating scalable, maintainable, and collaborative front-end code. It establishes clear boundaries, consistent naming conventions, and reduces the risk of unwanted side-effects, all of which help your projects remain robust and adaptable over time.
+While BEM isn't a universal solution to every CSS problem, it is a powerful methodology for creating scalable, maintainable, and collaborative front-end code. It establishes clear boundaries, consistent naming conventions, and reduces the risk of unwanted side-effects, all of which help your projects remain robust and adaptable over time.
 
 Adopting BEM or a similar structured methodology is about creating shared expectations and "social contracts" within your team, ensuring your codebase can gracefully evolve.

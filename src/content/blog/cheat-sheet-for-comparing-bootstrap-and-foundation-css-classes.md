@@ -5,9 +5,9 @@ pubDate: '2015-01-23'
 heroImage: '/images/foundation-and-bootstrap.jpg'
 ---
 
-We’ve been talking a lot this week about ZURB’s Foundation 5. It’s a great front-end framework that is a solid alternative to the awesome Bootstrap and deserves at least a look at the features before being dismissed. It does have a few features that Bootstrap doesn’t.
+We've been talking a lot this week about ZURB's Foundation 5. It's a great front-end framework that is a solid alternative to the awesome Bootstrap and deserves at least a look at the features before being dismissed. It does have a few features that Bootstrap doesn't.
 
-This will be a simple article that will help alleviate moving from Bootstrap over to Foundation. We’ll be comparing the classes for the main parts of both frameworks. For the most part, both frameworks can build out components of your site for you (grid, buttons, forms, tables), so here’s the cheat sheet to see side-by-side classes:
+This will be a simple article that will help alleviate moving from Bootstrap over to Foundation. We'll be comparing the classes for the main parts of both frameworks. For the most part, both frameworks can build out components of your site for you (grid, buttons, forms, tables), so here's the cheat sheet to see side-by-side classes:
 
 #### Element Class Comparison
 
@@ -220,7 +220,7 @@ This will be a simple article that will help alleviate moving from Bootstrap ove
 
 ### Conclusion
 
-It’s interesting to see how each accomplishes certain tasks. Foundation uses universal classes like .secondary, .success, .alert, .radius, and .round while Bootstrap prefixes its classes with the element like .btn-, .alert-, and .panel-.
+It's interesting to see how each accomplishes certain tasks. Foundation uses universal classes like .secondary, .success, .alert, .radius, and .round while Bootstrap prefixes its classes with the element like .btn-, .alert-, and .panel-.
 
 This could act as a cheat sheet and also a comparison chart for what features are supported. Foundation has a lot of visibility classes compared to Bootstrap while Bootstrap has more flexibility in its table creation.
 
@@ -231,4 +231,4 @@ This should serve as an easy guide to moving between the two front-end framework
 Here are some more articles to get you going with Foundation:
 
 - [Getting Started with Foundation 5 by ZURB](/blog/getting-started-with-foundation-5-by-zurb)
-- [Foundation 5 Features that Bootstrap Doesn’t Have](/blog/foundation-5-features-that-bootstrap-doesnt-have)
+- [Foundation 5 Features that Bootstrap Doesn't Have](/blog/foundation-5-features-that-bootstrap-doesnt-have)

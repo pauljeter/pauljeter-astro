@@ -74,7 +74,7 @@ There are plenty of other ways to configure this and the HTML5 mode set to true 
 ### Fallback for Older Browsers
 The `$location` service will automatically fallback to the hashbang method for browsers that do not support the HTML5 History API.
 
-This happens transparently to you and you won’t have to configure anything for it to work. From the Angular $location docs, you can see the fallback method and how it works.
+This happens transparently to you and you won't have to configure anything for it to work. From the Angular $location docs, you can see the fallback method and how it works.
 
 ![hashbang_vs_regular_url](/images/hashbang_vs_regular_url.jpg)
 

@@ -16,7 +16,7 @@ heroImage: '/images/digging-into-backbone.jpg'
 
 According to the BackboneJS documentation:
 
-> Backbone views are almost more convention than they are code —they don't determine anything about your HTML or CSS for you, and can be used with any JavaScript templating library.
+> Backbone views are almost more convention than they are code , they don't determine anything about your HTML or CSS for you, and can be used with any JavaScript templating library.
 
 Views are used to organize your UI into logical views. Your views are connected to [models](http://www.pauljeter.net/web-development/javascript/backbonejs/what-is-a-backbonejs-model/ "What is a Model?"), and both can be updated independently when the model is changed, without the need to re-render the entire page. Instead of parsing a JSON object, looking up an element in the DOM, and updating the HTML by hand, you can instead bind your view's "render" function to the model's "change" event. Then, anywhere that model data is displayed in your app's UI, it will always be up to date.
 

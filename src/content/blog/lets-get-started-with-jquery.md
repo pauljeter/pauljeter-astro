@@ -1,5 +1,5 @@
 ---
-title: "Let’s get started with jQuery"
+title: "Let's get started with jQuery"
 description: ""
 pubDate: 2012-03-19
 categories: 
@@ -17,7 +17,7 @@ tags: ['jQuery', 'Frameworks', 'JavaScript', 'JS', 'Libraries']
 
 ## **What Are Some Of The Benefits Of jQuery?**
 
-Why would you even use a framework of library if there were no benefit that would come from using it? Let’s just touch the surface on some of the benefits and features of using the jQuery library.
+Why would you even use a framework of library if there were no benefit that would come from using it? Let's just touch the surface on some of the benefits and features of using the jQuery library.
 
 - It reduces the amount of code that needs to be written compared to pure Javascript, which leads to less development time and more readable code.
 - It is much easier to understand than scripting with pure Javascript.
@@ -34,13 +34,13 @@ The first thing you need to do to get started with jQuery is visit the [jQuery d
 <script src="/jquery.js"></script>
 ```
 
-You can also use a content delivery network (CDN) to host your jQuery code for you, which can net you faster load times, especially if the version of jQuery that you are using is already cached in your user’s browser. You can find out more on the [jQuery download page](http://jquery.com/download/ "Download jQuery").
+You can also use a content delivery network (CDN) to host your jQuery code for you, which can net you faster load times, especially if the version of jQuery that you are using is already cached in your user's browser. You can find out more on the [jQuery download page](http://jquery.com/download/ "Download jQuery").
 
 Now that we have downloaded and properly linked to the jQuery library on our server, we can move onto our next piece of code, which will execute when the document is ready.
 
 ## **Is The Document Ready?**
 
-To run our first jQuery script, we need to encapsulate all of our script inside a function. This function will execute any code contained inside when the document is ready. Let’s take a look at an example and then go over it in more detail.
+To run our first jQuery script, we need to encapsulate all of our script inside a function. This function will execute any code contained inside when the document is ready. Let's take a look at an example and then go over it in more detail.
 
 ```
 $(document).ready(function() {

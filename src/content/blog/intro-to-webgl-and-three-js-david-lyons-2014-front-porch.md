@@ -26,7 +26,7 @@ JavaScript API for rendering interactive 2d and 3d graphics in the browser <canv
   
 three.js  
 3D JavaScript Library  
-100’s of lines of raw WebGL code can be written in just a few lines with three.js  
+100's of lines of raw WebGL code can be written in just a few lines with three.js  
   
 All three.js objects will have 3 pieces
 

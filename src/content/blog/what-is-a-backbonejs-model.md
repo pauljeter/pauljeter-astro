@@ -30,7 +30,7 @@ Book = Backbone.Model.extend({
 var book = new Book;
 ```
 
-initialize() is triggered when a new instance of a model( models, collections and views work the same way ) are created. It’s not required to be included in your model declaration but you will find it useful more often than not.
+initialize() is triggered when a new instance of a model( models, collections and views work the same way ) are created. It's not required to be included in your model declaration but you will find it useful more often than not.
 
 ##  Setting attributes
 
@@ -104,7 +104,7 @@ var author = book.get('author'); // Harper Lee
 
 ## Listening for changes to the model
 
-Let’s talk about one of the more useful functionalities of a Backbone Model. All of the attributes of a model can have listeners bound to them. These listeners can detect changes to their values. In your initialize function, you can bind a function to be called every time the value of your attribute is changed. In this case, if the tile of our “book” changes, we will alert the new title.
+Let's talk about one of the more useful functionalities of a Backbone Model. All of the attributes of a model can have listeners bound to them. These listeners can detect changes to their values. In your initialize function, you can bind a function to be called every time the value of your attribute is changed. In this case, if the tile of our "book" changes, we will alert the new title.
 
 ```
 Book = Backbone.Model.extend({
@@ -128,9 +128,9 @@ book.set({
 // This triggers a change and will alert()
 ```
 
-You can bind the change listener to the individual attributes, or you can bind it to listen to all of the attributes in the model. Do this by using “this.on(‘change', function(model){});” without the :attribute.
+You can bind the change listener to the individual attributes, or you can bind it to listen to all of the attributes in the model. Do this by using "this.on(‘change', function(model){});" without the :attribute.
 
-This was a very basic overview of Backbone models. We will get more in-depth as the series goes on. Next, let’s look at [Collections](http://www.pauljeter.net/random-thoughts/what-is-a-backbonejs-collection/ "What is a Collection?").
+This was a very basic overview of Backbone models. We will get more in-depth as the series goes on. Next, let's look at [Collections](http://www.pauljeter.net/random-thoughts/what-is-a-backbonejs-collection/ "What is a Collection?").
 
 ### Digging into Backbone.js series:
 

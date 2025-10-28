@@ -39,7 +39,7 @@ Patterson equips leaders with essential communication techniques to handle diffi
 This book demonstrates that effective leadership doesn't require formal authority, providing practical ways to influence and lead positively from any role.
 
 ### 10. **Think Again** by Adam Grant  
-Adam Grant challenges readers to rethink assumptions, embrace curiosity, and maintain adaptability—key traits of innovative, resilient leaders.
+Adam Grant challenges readers to rethink assumptions, embrace curiosity, and maintain adaptability; key traits of innovative, resilient leaders.
 
 ### 11. **The Mind of the Leader** by Rasmus Hougaard and Jacqueline Carter  
 Blending mindfulness, compassion, and selflessness, this book highlights essential traits for cultivating meaningful leadership that positively impacts people and performance.

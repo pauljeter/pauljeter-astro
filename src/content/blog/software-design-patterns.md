@@ -7,9 +7,9 @@ category: 'Software Engineering'
 tags: ['Design Patterns', 'Software Architecture']
 ---
 
-In software engineering, **design patterns** are tried-and-true solutions to common design challenges. They aren’t code, but rather conceptual blueprints—templates you can adapt to solve problems consistently across projects.
+In software engineering, **design patterns** are tried-and-true solutions to common design challenges. They aren't code, but rather conceptual blueprints, templates you can adapt to solve problems consistently across projects.
 
-By offering structured approaches to recurring design issues, design patterns help engineers build software that’s more **scalable**, **maintainable**, and **collaborative**.
+By offering structured approaches to recurring design issues, design patterns help engineers build software that's more **scalable**, **maintainable**, and **collaborative**.
 
 ## What Makes Design Patterns Useful?
 
@@ -17,7 +17,7 @@ By offering structured approaches to recurring design issues, design patterns he
 Design patterns provide general solutions that can be applied across different problems and contexts, helping teams avoid reinventing the wheel.
 
 ### Adaptability  
-These templates are flexible. You can tweak them to meet your project’s specific needs without starting from scratch.
+These templates are flexible. You can tweak them to meet your project's specific needs without starting from scratch.
 
 ### Communication  
 Patterns create a **shared vocabulary** for discussing architecture and design, making it easier for teams to stay aligned.
@@ -26,14 +26,14 @@ Patterns create a **shared vocabulary** for discussing architecture and design, 
 Code built around patterns is typically more modular and easier to read, refactor, or extend.
 
 ### Not Code  
-It’s important to remember: patterns are **not finished code**. They’re proven solutions to recurring design issues, offered in a form that’s abstract and broadly applicable.
+It's important to remember: patterns are **not finished code**. They're proven solutions to recurring design issues, offered in a form that's abstract and broadly applicable.
 
 ### OOP Alignment  
 Most patterns come from an **object-oriented programming** (OOP) context, solving problems related to class structure and object behavior.
 
 ## Common Design Patterns
 
-Here are a few foundational patterns you’ll encounter frequently:
+Here are a few foundational patterns you'll encounter frequently:
 
 - **Singleton**  
   Ensures that a class has only one instance and provides a global access point to it.
@@ -62,11 +62,11 @@ Here are a few foundational patterns you’ll encounter frequently:
   Having a common design language makes team discussions more productive and less ambiguous.
 
 - **Reusable Solutions**  
-  Patterns are inherently reusable—across different teams, projects, and problem domains.
+  Patterns are inherently reusable, across different teams, projects, and problem domains.
 
 - **Simplified Design**  
   They break down complex problems into manageable components, leading to clearer and more maintainable architecture.
 
 ---
 
-Design patterns won’t solve every issue, but when used appropriately, they bring **clarity, consistency, and confidence** to your software design process.
+Design patterns won't solve every issue, but when used appropriately, they bring **clarity, consistency, and confidence** to your software design process.

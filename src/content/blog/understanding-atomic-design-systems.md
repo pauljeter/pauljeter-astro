@@ -11,9 +11,9 @@ You've likely heard the term "Design System," but what exactly is it, and why is
 
 ## What is a Design System?
 
-A **Design System** formalizes your visual language by collecting and documenting reusable components. Think of it like a well-organized toolbox filled with parts you can reuse to build your product consistently, whether it’s digital or physical.
+A **Design System** formalizes your visual language by collecting and documenting reusable components. Think of it like a well-organized toolbox filled with parts you can reuse to build your product consistently, whether it's digital or physical.
 
-A good example is [Bootstrap](https://getbootstrap.com/): a framework of predefined styles and components that ensures visual consistency by just using CSS classes. Developers are familiar with these ideas because Design Systems mirror software engineering principles—like modularity, reusability, and scalability—allowing you to build without repeating yourself (DRY).
+A good example is [Bootstrap](https://getbootstrap.com/): a framework of predefined styles and components that ensures visual consistency by just using CSS classes. Developers are familiar with these ideas because Design Systems mirror software engineering principles, like modularity, reusability, and scalability, allowing you to build without repeating yourself (DRY).
 
 ## What is Atomic Design?
 
@@ -23,14 +23,14 @@ Let's dive into each level.
 
 ### Atoms
 
-Atoms are the fundamental building blocks—basic UI elements that cannot be broken down further without losing their functionality. Common examples are:
+Atoms are the fundamental building blocks, basic UI elements that cannot be broken down further without losing their functionality. Common examples are:
 
 - Buttons
 - Text elements (headings, paragraphs)
 - Labels
 - Form inputs (like checkboxes and text fields)
 
-Atoms can have variants, but each should serve a unique purpose. Think of Bootstrap’s button classes (`btn-success`, `btn-info`, etc.) as atom variants.
+Atoms can have variants, but each should serve a unique purpose. Think of Bootstrap's button classes (`btn-success`, `btn-info`, etc.) as atom variants.
 
 ### Molecules
 
@@ -40,7 +40,7 @@ Molecules combine multiple atoms to perform specific functions. A classic exampl
 - A search button (atom)
 - A voice input icon (atom)
 
-Grouped together, these atoms create a molecule—a functional unit that serves a clear purpose.
+Grouped together, these atoms create a molecule, a functional unit that serves a clear purpose.
 
 ### Organisms
 
@@ -53,7 +53,7 @@ Organisms start to reveal the bigger picture, showing how smaller components com
 
 ### Templates
 
-Templates are essentially layouts or wireframes. They provide structural context, showing how various organisms interact to form complete pages or screens. At this stage, you don’t necessarily have real content—just placeholders to visualize the structure and relationships between components.
+Templates are essentially layouts or wireframes. They provide structural context, showing how various organisms interact to form complete pages or screens. At this stage, you don't necessarily have real content, just placeholders to visualize the structure and relationships between components.
 
 Templates help teams collaborate on layout decisions and improve overall UX and interaction design.
 
@@ -65,7 +65,7 @@ Pages fill your templates with real, representative content. This step helps:
 - Identify layout issues caused by actual copy and images.
 - Serve as prototypes for user testing and feedback.
 
-Pages aren't always required for every template—use them when they're beneficial.
+Pages aren't always required for every template, use them when they're beneficial.
 
 ## Atomic Design Beyond Digital Products
 
@@ -77,6 +77,6 @@ Atomic Design isn't limited to web or digital interfaces. Its principles apply e
 
 ## Wrapping Up
 
-A Design System—especially when structured with Atomic Design—provides a powerful methodology to maintain consistency, scalability, and efficiency. The parallels between Atomic Design and software engineering principles make it an ideal approach for teams striving for collaboration and consistency across disciplines.
+A Design System, especially when structured with Atomic Design, provides a powerful methodology to maintain consistency, scalability, and efficiency. The parallels between Atomic Design and software engineering principles make it an ideal approach for teams striving for collaboration and consistency across disciplines.
 
-Give Atomic Design a try on your next project—you might just revolutionize your workflow!
+Give Atomic Design a try on your next project, you might just revolutionize your workflow!

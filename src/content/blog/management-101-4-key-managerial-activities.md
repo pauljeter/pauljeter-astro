@@ -9,7 +9,7 @@ tags: ['Management', 'Management 101', 'High Output Management', 'Manager Skills
 
 ## How should I best make use of my time?
 
-In the last post, we talked about systems and routines—tools to help manage the chaos and create a sense of structure in your day. But once you have that rhythm in place, the next question becomes: **how should you spend your time to create the most impact?**
+In the last post, we talked about systems and routines, tools to help manage the chaos and create a sense of structure in your day. But once you have that rhythm in place, the next question becomes: **how should you spend your time to create the most impact?**
 
 To help answer that, I want to zoom in on four categories of work that Andy Grove outlines in his classic book, High Output Management. These categories provide a clear, practical lens through which to view your daily interactions and contributions as a manager.
 
@@ -20,32 +20,32 @@ They are:
 3. Nudging  
 4. Being a role model  
 
-Let’s unpack each of them—and then walk through a day using these categories as a guide.
+Let's unpack each of them, and then walk through a day using these categories as a guide.
 
 ---
 
 ## 1. Information Gathering
 
-As a manager, your knowledge base is one of your most valuable assets. Everything you do—planning, prioritization, coaching—depends on how well you understand what’s really going on.
+As a manager, your knowledge base is one of your most valuable assets. Everything you do, planning, prioritization, coaching, depends on how well you understand what's really going on.
 
-This is why it’s so important to document what you hear and observe. Notes from 1:1s, informal hallway chats, decisions from meetings—capture them all. Don’t rely on memory. Use tools like Google Drive or Evernote to keep your info accessible and organized.
+This is why it's so important to document what you hear and observe. Notes from 1:1s, informal hallway chats, decisions from meetings, capture them all. Don't rely on memory. Use tools like Google Drive or Evernote to keep your info accessible and organized.
 
-Information comes from everywhere, not just formal settings. A passing comment at the coffee machine might give you insight into another team’s roadmap—something that becomes incredibly useful weeks later when planning cross-team work. Stay curious, stay observant, and keep logging what you learn.
+Information comes from everywhere, not just formal settings. A passing comment at the coffee machine might give you insight into another team's roadmap, something that becomes incredibly useful weeks later when planning cross-team work. Stay curious, stay observant, and keep logging what you learn.
 
 ---
 
 ## 2. Decision Making
 
-This is the one people often associate most with management. And while it’s not your *only* job, it is an important one.
+This is the one people often associate most with management. And while it's not your *only* job, it is an important one.
 
-Decisions come in all sizes—from approving time off to green-lighting multi-million-dollar projects. No matter the scale, treat each with intention. The people around you may not always have the authority to decide, so your choices carry weight.
+Decisions come in all sizes, from approving time off to green-lighting multi-million-dollar projects. No matter the scale, treat each with intention. The people around you may not always have the authority to decide, so your choices carry weight.
 
 Every decision is a fork in the road:  
 - Do we hire this candidate or the other one?  
 - Should we split the team now or wait another quarter?  
-- Do we move forward with a vague product request, or push back until it’s clarified?
+- Do we move forward with a vague product request, or push back until it's clarified?
 
-Small in the moment—big over time. Take them seriously.
+Small in the moment, big over time. Take them seriously.
 
 ---
 
@@ -53,19 +53,19 @@ Small in the moment—big over time. Take them seriously.
 
 This is where influence lives.
 
-You’re not always the decision-maker, but that doesn’t mean you’re passive. Nudging is offering a perspective, planting a seed, helping a team see something they may have missed.
+You're not always the decision-maker, but that doesn't mean you're passive. Nudging is offering a perspective, planting a seed, helping a team see something they may have missed.
 
 - "Have you considered this open-source tool?"
-- "Do you think we’re ready to ship, or would one more week help with polish?"
+- "Do you think we're ready to ship, or would one more week help with polish?"
 - "What would it take to make this reusable for other teams?"
 
-These aren’t mandates—they’re contributions. And when done consistently, they can significantly shape outcomes across the business.
+These aren't mandates, they're contributions. And when done consistently, they can significantly shape outcomes across the business.
 
 ---
 
 ## 4. Being a Role Model
 
-You can’t lead from the back. If you want your team to operate at a high standard, you need to show them what that looks like.
+You can't lead from the back. If you want your team to operate at a high standard, you need to show them what that looks like.
 
 That might mean:
 - Giving talks and sharing knowledge
@@ -74,13 +74,13 @@ That might mean:
 
 Even the little things matter. Want better in-person collaboration? Get up and talk to someone instead of sending a Slack message. Want a feedback-rich culture? Give positive, direct feedback openly and consistently.
 
-And don’t just model behavior within your team—look beyond. Build relationships across departments. Show up with curiosity. Help others see how Engineering, Product, and Commercial can align. That’s leadership, too.
+And don't just model behavior within your team, look beyond. Build relationships across departments. Show up with curiosity. Help others see how Engineering, Product, and Commercial can align. That's leadership, too.
 
 ---
 
 ## A Day Through the Lens
 
-Let’s walk through a pretty typical day—and see how it maps to the four categories:
+Let's walk through a pretty typical day, and see how it maps to the four categories:
 
 **8:45** – Prioritize your to-do list. Scan your emails and Slack.  
 → *Information gathering*
@@ -123,7 +123,7 @@ That coffee chat? Definitely information gathering.
 That impromptu praise? Role modeling.  
 That decision you made without realizing it? Well… now you see it.
 
-Management can feel abstract. But this framework brings clarity. Try tracking your own day using these categories—you might be surprised how much influence you already have.
+Management can feel abstract. But this framework brings clarity. Try tracking your own day using these categories, you might be surprised how much influence you already have.
 
 ---
 

@@ -13,13 +13,13 @@ tags:
 
 CSS has some great selectors built-in that many developers aren't aware of. Knowing these can significantly simplify styling your webpages. You can select even and odd elements, first and last children, siblings, and more.
 
-In this article, we'll explore some lesser-known CSS selectors and demonstrate how to use them effectively. We won’t dive into common selectors like IDs and classes; instead, we'll focus on selectors that often fly under the radar.
+In this article, we'll explore some lesser-known CSS selectors and demonstrate how to use them effectively. We won't dive into common selectors like IDs and classes; instead, we'll focus on selectors that often fly under the radar.
 
 Let's get started!
 
 ### First Line and First Letter Selectors
 
-- **`:first-letter`** — Style just the first letter in a paragraph.
+- **`:first-letter`** - Style just the first letter in a paragraph.
 ```css
 p:first-letter {
   font-size: 2em;
@@ -27,7 +27,7 @@ p:first-letter {
 }
 ```
 
-- **`:first-line`** — Style just the first line in a paragraph.
+- **`:first-line`** - Style just the first line in a paragraph.
 ```css
 p:first-line {
   color: red;
@@ -36,7 +36,7 @@ p:first-line {
 
 ### Before and After Pseudo Elements
 
-- **`:before`** — Add elements before the current element.
+- **`:before`** - Add elements before the current element.
 ```css
 p:before {
   content: "Note: ";
@@ -44,7 +44,7 @@ p:before {
 }
 ```
 
-- **`:after`** — Add elements after the current element.
+- **`:after`** - Add elements after the current element.
 ```css
 p:after {
   content: " ★";
@@ -54,21 +54,21 @@ p:after {
 
 ### Sibling and Child Selectors
 
-- **Child Selector `>`** — Selects direct child elements only (not nested).
+- **Child Selector `>`** - Selects direct child elements only (not nested).
 ```css
 body > p {
   font-weight: bold;
 }
 ```
 
-- **Adjacent Sibling Selector `+`** — Selects the element immediately following a specific element.
+- **Adjacent Sibling Selector `+`** - Selects the element immediately following a specific element.
 ```css
 h1 + p {
   font-size: 18px;
 }
 ```
 
-- **General Sibling Selector `~`** — Selects all siblings after a specific element.
+- **General Sibling Selector `~`** - Selects all siblings after a specific element.
 ```css
 h1 ~ pre {
   background-color: #f0f0f0;

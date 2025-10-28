@@ -21,7 +21,7 @@ tags:
 
 662 lines of code   
   
-“So you’ve got a great app idea?”  
+"So you've got a great app idea?"  
   
 Join the crowd…  
   
@@ -32,7 +32,7 @@ Hybrid Apps!
 - Direct access to native APIs
 - Cordova/PhoneGap
 
-These are not the hybrids you’re looking for - Hybrids have a bad reputation  
+These are not the hybrids you're looking for - Hybrids have a bad reputation  
   
 Hybrid Apps can be beautiful - showcase.ionicframework.com  
   

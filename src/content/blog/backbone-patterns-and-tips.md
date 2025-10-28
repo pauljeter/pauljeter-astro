@@ -7,7 +7,7 @@ category: 'JavaScript'
 tags: ['Backbone.js', 'Design Patterns', 'JavaScript']
 ---
 
-Backbone.js is a powerful, lightweight JavaScript framework that provides structure for client-side applications. However, because it offers minimal structure, developers often encounter common issues or pitfalls, especially when first adopting Backbone.js. In this guide, I’ll cover some essential design patterns and common pitfalls that can improve your Backbone.js applications.
+Backbone.js is a powerful, lightweight JavaScript framework that provides structure for client-side applications. However, because it offers minimal structure, developers often encounter common issues or pitfalls, especially when first adopting Backbone.js. In this guide, I'll cover some essential design patterns and common pitfalls that can improve your Backbone.js applications.
 
 ## Deep Copying Objects
 

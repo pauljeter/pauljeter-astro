@@ -17,7 +17,7 @@ We'll use Bootstrap's predefined responsive visibility classes to detect the cur
 - **Large (`lg`):** `.d-none .d-lg-block .d-xl-none`
 - **Extra large (`xl`):** `.d-none .d-xl-block`
 
-Each class toggles the element’s `display` property between `none` and `block`. When the screen size changes, we detect which element is displayed.
+Each class toggles the element's `display` property between `none` and `block`. When the screen size changes, we detect which element is displayed.
 
 ## Creating the Size Detector Component
 

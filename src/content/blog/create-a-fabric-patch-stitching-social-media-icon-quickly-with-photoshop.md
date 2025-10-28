@@ -7,15 +7,15 @@ categories:
 heroImage: "/images/fabric-patch-stitching-social-media-icons.jpg"
 ---
 
-Have you ever wanted the social icons on your site to be unique? Or do you want your social media icons to match the theme of your unique website or blog but just can’t find any that are just right? With so many free and paid for social media icon sets out there, I can normally find one that works, but sometimes you will need to create one from scratch.
+Have you ever wanted the social icons on your site to be unique? Or do you want your social media icons to match the theme of your unique website or blog but just can't find any that are just right? With so many free and paid for social media icon sets out there, I can normally find one that works, but sometimes you will need to create one from scratch.
 
-In today’s tutorial, I will show you how to create a fabric patch stitching style social media icon set in Photoshop. In addition, I have included the Fabric Patch Stitching Style Social Media Icon Set download for free. So let’s get started.
+In today's tutorial, I will show you how to create a fabric patch stitching style social media icon set in Photoshop. In addition, I have included the Fabric Patch Stitching Style Social Media Icon Set download for free. So let's get started.
 
-Well, before we get started, download the [Free Vector Social Media Icons Set](/free-vector-social-media-icons-set/ "Free Vector Social Media Icons Set"). There is no sense in reinventing the wheel. What we will be doing today is creating the actual icon buttons. Graphic Design Junction has already created the vector logos for the buttons, so we don’t have to spend time creating them today. These are the vector logos that I use for all of my social media icons. To use these .svg vector files in Photoshop, first open the file in Illustrator and convert to .eps.
+Well, before we get started, download the [Free Vector Social Media Icons Set](/free-vector-social-media-icons-set/ "Free Vector Social Media Icons Set"). There is no sense in reinventing the wheel. What we will be doing today is creating the actual icon buttons. Graphic Design Junction has already created the vector logos for the buttons, so we don't have to spend time creating them today. These are the vector logos that I use for all of my social media icons. To use these .svg vector files in Photoshop, first open the file in Illustrator and convert to .eps.
 
 ## Step 1: Set up the Photoshop Canvas
 
-I like to create the icons larger than the final product will be, to have greater detail to work with, and then resize them when I’m done. So, create a new canvas that’s 1000px x 1000px. Set up Photoshop guides (cmd + opt + ‘ /ctrl + opt + ‘) at 50px and 950px, vertically and horizontally for the outer edge of the icon, and 500px vertically and horizontally to help snap to the center of the icon. I also added a black to grey gradient to the background layer, just to make it easier to see my work.
+I like to create the icons larger than the final product will be, to have greater detail to work with, and then resize them when I'm done. So, create a new canvas that's 1000px x 1000px. Set up Photoshop guides (cmd + opt + ‘ /ctrl + opt + ‘) at 50px and 950px, vertically and horizontally for the outer edge of the icon, and 500px vertically and horizontally to help snap to the center of the icon. I also added a black to grey gradient to the background layer, just to make it easier to see my work.
 
 ![photoshop patch style social media icon tutorial step one](/images/photoshop-patch-style-social-media-icon-tutorial-step-one.png)
 
@@ -47,11 +47,11 @@ Then duplicate the layer (Cmd/Ctrl + J) and resize to 90% again. Now select the 
 
 ![photoshop patch style social media icon tutorial step three-2](/images/photoshop-patch-style-social-media-icon-tutorial-step-three-2.png)
 
-Next, with the Eraser Tool (E), select a square brush about 70px and delete the spaces of the stitching layer. Remember, It doesn’t have to be perfect since the final icon will be relatively small on your website.
+Next, with the Eraser Tool (E), select a square brush about 70px and delete the spaces of the stitching layer. Remember, It doesn't have to be perfect since the final icon will be relatively small on your website.
 
 ![photoshop patch style social media icon tutorial step three-3](/images/photoshop-patch-style-social-media-icon-tutorial-step-three-3.png)
 
-Now let’s create the effects on the stitching in the layer blending options (Layer>Layer Style>Blending Options) using the following settings.
+Now let's create the effects on the stitching in the layer blending options (Layer>Layer Style>Blending Options) using the following settings.
 
 Bevel and Emboss:
 
@@ -75,7 +75,7 @@ This is where the [Free Vector Social Media Icons Set](/free-vector-social-media
 
 ![photoshop patch style social media icon tutorial step four](/images/photoshop-patch-style-social-media-icon-tutorial-step-four.png)
 
-Next, with the brush tool (B) select a round, hard brush about 10px, and color in the stitching on the new layer. Be sure not to color it in completely, leaving spaces to create the stitching effect. Now copy the layer style from the outer stitching by Cmd + clicking/right-clicking on the layer and selecting Copy Layer Style. Then Cmd + click/right-click on the logo layer and select Paste Layer Style. Hide the background layer and you’re done!
+Next, with the brush tool (B) select a round, hard brush about 10px, and color in the stitching on the new layer. Be sure not to color it in completely, leaving spaces to create the stitching effect. Now copy the layer style from the outer stitching by Cmd + clicking/right-clicking on the layer and selecting Copy Layer Style. Then Cmd + click/right-click on the logo layer and select Paste Layer Style. Hide the background layer and you're done!
 
 ![photoshop patch style social media icon tutorial step four-2](/images/photoshop-patch-style-social-media-icon-tutorial-step-four-2.png)
 
@@ -85,6 +85,6 @@ Lastly, save your Fabric Patch Stitching Style Social Media Icon in .png format 
 
 ## Step 6: Lather, Rinse, Repeat
 
-Don’t stop there! Apply the same steps for each of the social media that you want to include in your website. The sky’s the limits.
+Don't stop there! Apply the same steps for each of the social media that you want to include in your website. The sky's the limits.
 
 \[gravityform id="2" name="Patch Icon Download" title="false" description="false"\]

@@ -92,7 +92,7 @@ Directory Structure: server
 \-shared  
 \-revisions.log  
   
-note: Make sure to point your web host’s document root to **current** as it is a symlink to the latex release.  
+note: Make sure to point your web host's document root to **current** as it is a symlink to the latex release.  
 For example, in the above **current** would be a symlink (alias) to **20141007112233**
 
 * * *

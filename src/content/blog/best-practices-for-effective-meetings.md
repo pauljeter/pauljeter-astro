@@ -7,7 +7,7 @@ category: "Leadership"
 tags: ["Meetings", "Leadership", "Best Practices", "Team Management"]
 ---
 
-If you own a team meeting, it’s your responsibility to ensure it’s a productive and valuable use of everyone’s time. Below are clear guidelines and best practices to help you facilitate great meetings. (Note: These practices apply primarily to team meetings of three or more people, not 1:1s.)
+If you own a team meeting, it's your responsibility to ensure it's a productive and valuable use of everyone's time. Below are clear guidelines and best practices to help you facilitate great meetings. (Note: These practices apply primarily to team meetings of three or more people, not 1:1s.)
 
 ## Before the Meeting
 
@@ -28,13 +28,13 @@ Always ensure remote access is set up (e.g., Google Meet). As the meeting owner,
 ## During the Meeting
 
 ### Arrive Early  
-Meeting owners should arrive a few minutes early to test remote conferencing tools and screen-sharing capabilities. Avoid delaying the start by ensuring technical setups are working before attendees arrive—even if that means leaving a previous meeting slightly early.
+Meeting owners should arrive a few minutes early to test remote conferencing tools and screen-sharing capabilities. Avoid delaying the start by ensuring technical setups are working before attendees arrive, even if that means leaving a previous meeting slightly early.
 
 ### Start on Time  
 Respect everyone's time by starting promptly. Latecomers should catch up quietly, without interrupting the flow.
 
 ### Take Clear Notes  
-Designate someone—either yourself or another attendee—to capture notes. Use a shared resource like Google Docs, a wiki page, or even email. Clear notes improve accountability and ensure follow-up actions aren't missed.
+Designate someone, either yourself or another attendee, to capture notes. Use a shared resource like Google Docs, a wiki page, or even email. Clear notes improve accountability and ensure follow-up actions aren't missed.
 
 ### Timebox Discussions  
 Keeping discussions within their allocated times is your responsibility as meeting owner:

@@ -33,9 +33,9 @@ To start, you can always use `git help` to see a basic list of commands.
 | `git clone <repo url>` | Clone a current repo (into a folder with same name as repo) |
 | `git clone <repo url> <folder name>` | Clone a repo into a specific folder name |
 | `git clone <repo url> .` | Clone a repo into current directory (should be an empty directory) |
-| `git remote add origin https://github.com/username/<repo name>.git` | Create a remote repo named origin pointing at your Github repo (after you’ve already created the repo on Github) (used if you git init since the repo you created locally isn’t linked to a remote repo yet) |
+| `git remote add origin https://github.com/username/<repo name>.git` | Create a remote repo named origin pointing at your Github repo (after you've already created the repo on Github) (used if you git init since the repo you created locally isn't linked to a remote repo yet) |
 | `git remote add origin git@github.com:username/<repo name>.git` | Create a remote repo named origin pointing at your Github repo (using SSH url instead of HTTP url) |
-| `git remote` | Show the names of the remote repositories you’ve set up |
+| `git remote` | Show the names of the remote repositories you've set up |
 | `git remote -v` | Show the names and URLs of the remote repositories |
 | `git remote rm <remote name>` | Remove a remote repository |
 | `git remote set-url origin <git url>` | Change the URL of the git repo |
@@ -73,8 +73,8 @@ To start, you can always use `git help` to see a basic list of commands.
 
 > **Git Workflow Trees: How adding and committing moves files between the different git trees.
 
-Working Tree	The “tree” that holds all our current files.
-Index (after adding/staging file)	The “staging” area that holds files that need to be committed.
+Working Tree	The "tree" that holds all our current files.
+Index (after adding/staging file)	The "staging" area that holds files that need to be committed.
 HEAD	Tree that represents the last commit.
 
 ### Publishing commit/stash/push
@@ -96,14 +96,14 @@ HEAD	Tree that represents the last commit.
 
 |  |  |
 |---|---|
-| `git fetch` | Get the latest changes from origin (don’t merge) |
+| `git fetch` | Get the latest changes from origin (don't merge) |
 | `git pull` | Get the latest changes from origin AND merge |
 
 > **Updating and Getting Code**
 
 |  |  |
 |---|---|
-| `git fetch` | Get the latest changes from origin (don’t merge) |
+| `git fetch` | Get the latest changes from origin (don't merge) |
 | `git pull` | Get the latest changes from origin AND merge |
 | `git checkout -b <new branch name> origin/<branch name>` | Get a remote branch from origin into a local branch (naming the branch and switching to it) |
 
@@ -137,4 +137,4 @@ HEAD	Tree that represents the last commit.
 |---|---|
 | `git tag <tag name>` | Tag a version (ie v1.0). Useful for Github releases. |
 
-There you go! Hopefully that covers most of the basic ones and a few more. If you’d like to see any that haven’t been covered here, I’d be happy to add them. Also if you need a further explanation or demonstration, don’t be scared to ask. Happy gitting!
+There you go! Hopefully that covers most of the basic ones and a few more. If you'd like to see any that haven't been covered here, I'd be happy to add them. Also if you need a further explanation or demonstration, don't be scared to ask. Happy gitting!

@@ -8,7 +8,7 @@ heroImage: '/images/angularjs-2.jpg'
 ### Introduction
 Angular single page applications can be interactive and beautiful. The animations that can be used in Angular apps can help create the impression that it is a native phone or tablet application. We can bring animation to our Angular applications using the awesome ngAnimate module.
 
-We’ve looked at how ngAnimate can help animate ngView. Today we’ll look at the simple way we can animate ngShow and ngHide directives.
+We've looked at how ngAnimate can help animate ngView. Today we'll look at the simple way we can animate ngShow and ngHide directives.
 
 
 ### The Technique
@@ -17,11 +17,11 @@ ngAnimate adds CSS classes when certain things change in your application. To ex
 #### ngShow and ngHide Classes
 For ngShow and ngHide, the classes that are added are `.ng-hide-add` and `.ng-hide-remove`.
 
-Note that `.ng-show` isn’t one of the classes.
+Note that `.ng-show` isn't one of the classes.
 
 We will have two buttons that will toggle show/hide their respective images.
 
-We’ll just need an HTML file (`index.html`), a CSS file (`style.css`), and a JS file (`app.js`) to setup our Angular application. Let’s get our HTML and JS files going so we can focus on the CSS file. The CSS file is where the magic happens.
+We'll just need an HTML file (`index.html`), a CSS file (`style.css`), and a JS file (`app.js`) to setup our Angular application. Let's get our HTML and JS files going so we can focus on the CSS file. The CSS file is where the magic happens.
 
 #### Setting Up Angular Application
 Here is our JavaScript where we define our Angular application.
@@ -89,14 +89,14 @@ Now we have to apply our Angular app to our site. Here is our HTML:
 
 Now we have our buttons that will toggle showing and hiding their respective pictures.
 
-With the core stuff out of the way, let’s move onto making our animations work. We just need to define animations in our CSS now and apply them to the classes that ngAnimate gives us (`.ng-hide-add` and `.ng-hide-remove`).
+With the core stuff out of the way, let's move onto making our animations work. We just need to define animations in our CSS now and apply them to the classes that ngAnimate gives us (`.ng-hide-add` and `.ng-hide-remove`).
 
 #### CSS Animations
 ngAnimate adds the `.ng-hide-add` and `.ng-hide-remove` classes. All we have to do is add animations to those classes.
 
-We’ll borrow some animations from animate.css and then apply those to the right classes.
+We'll borrow some animations from animate.css and then apply those to the right classes.
 
-Here is the full CSS file that will make our app work the way we want. To keep this short, we’ll forego the browser specific prefixes.
+Here is the full CSS file that will make our app work the way we want. To keep this short, we'll forego the browser specific prefixes.
 
 ```css
 /* when hiding the picture */
@@ -169,7 +169,7 @@ Here is the full CSS file that will make our app work the way we want. To keep t
 }
 ```
 
-Just like that, we have added animations when our pictures are shown and hidden. Go ahead and pull in animate.css into your project and experiment with all the great animations they provide. If you include the file in your project, you won’t have to write out all these animations.
+Just like that, we have added animations when our pictures are shown and hidden. Go ahead and pull in animate.css into your project and experiment with all the great animations they provide. If you include the file in your project, you won't have to write out all these animations.
 
 
 ### Conclusion

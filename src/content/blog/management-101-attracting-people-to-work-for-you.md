@@ -1,23 +1,23 @@
 ---
 title: 'Attracting People to Work for You'
-description: 'It’s not enough to build a great company—you have to draw great people in. Here’s how to become a magnet for top talent.'
+description: 'It's not enough to build a great company; you have to draw great people in. Here's how to become a magnet for top talent.'
 pubDate: '2022-06-25'
 heroImage: '/images/management-101.jpg'
 category: 'Management'
 tags: ['Management', 'Hiring', 'Recruitment', 'Talent', 'Culture']
 ---
 
-## It’s not just the technology
+## It's not just the technology
 
-It’s easy to look at the most successful tech companies and credit their achievements to superior technology. And sure, great tech plays a role. But what built that technology?
+It's easy to look at the most successful tech companies and credit their achievements to superior technology. And sure, great tech plays a role. But what built that technology?
 
 **People.**
 
-The best companies attract, hire, and retain the best people. No matter how strong the founder’s vision is, without the right team, it stays just that—a vision.
+The best companies attract, hire, and retain the best people. No matter how strong the founder's vision is, without the right team, it stays just that, a vision.
 
-As a manager, hiring becomes a big part of your job. Some days it feels like a slog—especially when a round of interviews leads nowhere—but it matters. Getting the right people into your team is critical. Not just for shipping great software, but for building the kind of culture you actually want to work in.
+As a manager, hiring becomes a big part of your job. Some days it feels like a slog, especially when a round of interviews leads nowhere, but it matters. Getting the right people into your team is critical not just for shipping great software, but for building the kind of culture you actually want to work in.
 
-So let’s talk about step one of that process: getting great people to *apply* in the first place.
+So let's talk about step one of that process: getting great people to *apply* in the first place.
 
 ---
 
@@ -27,51 +27,51 @@ Broadly speaking, most candidates come through one of four channels:
 
 1. **Direct applicant (unknown):** They found your job online and applied.
 2. **Headhunted:** Someone reached out and convinced them to consider the role.
-3. **Direct applicant (positively influenced):** They’ve had a good experience with your company—through events, community partnerships, or your product.
+3. **Direct applicant (positively influenced):** They've had a good experience with your company, through events, community partnerships, or your product.
 4. **Referral:** A current employee recommended them.
 
-Each of these channels deserves your attention. Let’s break them down.
+Each of these channels deserves your attention. Let's break them down.
 
 ---
 
 ## Direct Applicants
 
-These are the folks who stumble across your job listing and decide to apply. If you're lucky, you'll find great candidates this way. But relying *only* on this method is risky—especially if you’re not a household name.
+These are the folks who stumble across your job listing and decide to apply. If you're lucky, you'll find great candidates this way. But relying *only* on this method is risky, especially if you're not a household name.
 
-Unless you’re Google or Meta, visibility is a challenge. There are far more jobs than available top-tier engineers right now, and in cities like London, NYC, or SF, the competition is intense.
+Unless you're Google or Meta, visibility is a challenge. There are far more jobs than available top-tier engineers right now, and in cities like London, NYC, or SF, the competition is intense.
 
-Here’s how you can improve your odds:
+Here's how you can improve your odds:
 
 ### ✏️ Write better job descriptions
 
-- Ditch gimmicky language like “rock star” or “ninja.”
+- Ditch gimmicky language like "rock star" or "ninja."
 - Avoid rigid checklists of tech requirements.
 - Focus on *what the person will learn and do*, not just what they need to bring.
 - Be professional, human, and clear.
 
 For example, say:  
-> “You’ll work on scaling our data infrastructure to handle petabytes of data.”  
+> "You'll work on scaling our data infrastructure to handle petabytes of data."  
 Not:  
-> “Must have experience with petabyte-scale data systems.”
+> "Must have experience with petabyte-scale data systems."
 
 ### 📢 Get your listing in front of the right people
 
 - Use job boards like Stack Overflow, but research whether the investment is worthwhile.
 - For niche roles, post in relevant communities or mailing lists.
-- Use platforms like Hacker News (e.g. "Who’s Hiring?" threads), but respect the tone and etiquette of the space.
+- Use platforms like Hacker News (e.g. "Who's Hiring?" threads), but respect the tone and etiquette of the space.
 
 ---
 
 ## Headhunting and Recruitment Agencies
 
-Sometimes you need to go out and find people—especially for senior or specialized roles.
+Sometimes you need to go out and find people, especially for senior or specialized roles.
 
 Recruiters can help, but proceed carefully. Their quality varies wildly, and bad recruiters waste your time (and damage your brand).
 
 ### Tips for working with recruiters:
 
 - Ask your network for recommendations.
-- Meet them before committing—ideally in person.
+- Meet them before committing, ideally in person.
 - Let them visit your office to understand your culture.
 - Ask for sample candidate profiles.
 - Understand their process and make sure they treat candidates with respect.
@@ -84,7 +84,7 @@ For niche or high-level roles, consider agencies that specialize in headhunting.
 
 If you want to build a reputation as a great place to work, show up for your local tech community.
 
-This doesn’t mean spending your budget on conference banners. Instead, invest in *real connections*:
+This doesn't mean spending your budget on conference banners. Instead, invest in *real connections*:
 
 - Host meetups in your office.
 - Sponsor drinks or snacks at events.
@@ -92,7 +92,7 @@ This doesn’t mean spending your budget on conference banners. Instead, invest 
 - Support local bootcamps.
 
 
-**Important:** Don’t treat this as a transactional hiring strategy. If your primary goal is recruiting, it won’t work. Show up because you care about your local ecosystem. The hiring benefits come *later*.
+**Important:** Don't treat this as a transactional hiring strategy. If your primary goal is recruiting, it won't work. Show up because you care about your local ecosystem. The hiring benefits come *later*.
 
 ---
 
@@ -100,7 +100,7 @@ This doesn’t mean spending your budget on conference banners. Instead, invest 
 
 Great people know great people. Use that.
 
-If you’re already hiring well, your existing team probably has a network of strong candidates they’ve worked with in the past.
+If you're already hiring well, your existing team probably has a network of strong candidates they've worked with in the past.
 
 ### 🔁 Create a referral program:
 
@@ -114,7 +114,7 @@ One word of caution: too many referrals can reduce diversity. Be mindful of pote
 
 ## In Summary
 
-Hiring is hard. Great people are in demand. But you *can* become a company that draws them in—if you put in the work.
+Hiring is hard. Great people are in demand. But you *can* become a company that draws them in, if you put in the work.
 
 Cast a wide net:
 
@@ -122,10 +122,10 @@ Cast a wide net:
 - Advertise in the right places.
 - Build respectful partnerships with recruiters.
 - Encourage thoughtful referrals.
-- Show up for your community—not just to hire, but to contribute.
+- Show up for your community, not just to hire, but to contribute.
 
 Over time, your reputation will do the heavy lifting.  
-And when people say “I’ve heard good things about your team”—you’ll know you’re doing it right.
+And when people say "I've heard good things about your team", you'll know you're doing it right.
 
 ---
 

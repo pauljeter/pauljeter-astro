@@ -7,13 +7,13 @@ category: 'Engineering'
 tags: ['redux', 'react', 'javascript']
 ---
 
-Redux is one of those libraries that sounds more complex than it really is. My goal here is to break it down in a practical way—starting with core Redux concepts, then moving into React integration with both class-based and functional components.
+Redux is one of those libraries that sounds more complex than it really is. My goal here is to break it down in a practical way, starting with core Redux concepts, then moving into React integration with both class-based and functional components.
 
 This guide is split into three parts:
 
-1. **Core Redux** — Actions, Reducers, Store, and using Redux with vanilla JavaScript.
-2. **React Redux with Class Components** — Wiring up Redux using `connect`.
-3. **React Redux with Functional Components** — Using Redux hooks like `useSelector` and `useDispatch`.
+1. **Core Redux** - Actions, Reducers, Store, and using Redux with vanilla JavaScript.
+2. **React Redux with Class Components** - Wiring up Redux using `connect`.
+3. **React Redux with Functional Components** - Using Redux hooks like `useSelector` and `useDispatch`.
 
 There's also a bonus section that touches on middleware and async actions using `redux-thunk`.
 
@@ -23,17 +23,17 @@ There's also a bonus section that touches on middleware and async actions using 
 
 ### What Redux Solves
 
-As your app grows, managing state across multiple components becomes a pain. Redux introduces a single source of truth: a centralized, immutable state tree. Think of Redux as your app’s state manager.
+As your app grows, managing state across multiple components becomes a pain. Redux introduces a single source of truth: a centralized, immutable state tree. Think of Redux as your app's state manager.
 
 Redux revolves around three key concepts:
 
-- **Actions** — Describe _what_ happened.
-- **Reducers** — Handle _how_ the state changes.
-- **Store** — Holds your application state and lets you dispatch actions and subscribe to updates.
+- **Actions** - Describe _what_ happened.
+- **Reducers** - Handle _how_ the state changes.
+- **Store** - Holds your application state and lets you dispatch actions and subscribe to updates.
 
 ### Example App: Notes App in Vanilla JS
 
-We'll build a dead-simple notes app to get a feel for Redux. No styling, no frills—just pure functionality.
+We'll build a dead-simple notes app to get a feel for Redux. No styling, no frills, just pure functionality.
 
 ```js
 // Example state
@@ -86,7 +86,7 @@ export function addNote(title, content) {
 }
 ```
 
-Actions just describe what happened. They don’t contain logic.
+Actions just describe what happened. They don't contain logic.
 
 ### Writing a Reducer
 
@@ -142,7 +142,7 @@ store.subscribe(() => {
 });
 ```
 
-You get the idea—Redux lets you centralize state and make it predictable.
+You get the idea, Redux lets you centralize state and make it predictable.
 
 ---
 
@@ -271,7 +271,7 @@ export function fetchNotes() {
 
 ## Final Thoughts
 
-Redux is a great tool, but it’s most powerful when you apply it where it actually adds value. Don’t use it just because it’s popular—use it when your state starts to sprawl and local component state doesn’t cut it anymore.
+Redux is a great tool, but it's most powerful when you apply it where it actually adds value. Don't use it just because it's popular, use it when your state starts to sprawl and local component state doesn't cut it anymore.
 
 If you want to take this app further:
 
@@ -283,4 +283,4 @@ If you want to take this app further:
 
 ---
 
-This guide is for engineers who want to go deeper and apply Redux with confidence. Use it as a launchpad. And when in doubt—keep things simple and iterate from there.
+This guide is for engineers who want to go deeper and apply Redux with confidence. Use it as a launchpad. And when in doubt, keep things simple and iterate from there.

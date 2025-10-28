@@ -50,7 +50,7 @@ Think of cycle time as your overarching "health metric". A shorter cycle time in
 
 A high deployment frequency suggests your team is delivering value rapidly, responding quickly to user needs. Ideally, teams should aim to deliver smaller, incremental updates frequently. Small changes are easier to troubleshoot, test, and roll back if necessary.
 
-It's important to remember that deployment frequency alone doesn’t speak directly to quality. For a complete picture, this metric must be analyzed alongside others, particularly Change Failure Rate and MTTR.
+It's important to remember that deployment frequency alone doesn't speak directly to quality. For a complete picture, this metric must be analyzed alongside others, particularly Change Failure Rate and MTTR.
 
 ### Change Failure Rate
 
@@ -60,7 +60,7 @@ A lower change failure rate indicates your engineering practices produce stable,
 
 ### Mean Time to Recover (MTTR)
 
-**Mean Time to Recover (MTTR)** measures your team's resilience—the average duration it takes to restore services after a production incident occurs.
+**Mean Time to Recover (MTTR)** measures your team's resilience, the average duration it takes to restore services after a production incident occurs.
 
 A low MTTR indicates that your team is effective at quickly identifying, diagnosing, and resolving production issues, minimizing disruption and downtime.
 
@@ -81,6 +81,6 @@ Identify where bottlenecks occur. Investigate why certain metrics aren't meeting
 
 As a seasoned engineering leader, I've seen firsthand how DORA Metrics empower data-driven decision-making, enabling our teams to deliver faster and more reliably while continuously improving quality.
 
-By systematically tracking and responding to these four critical metrics—Cycle Time, Deployment Frequency, Change Failure Rate, and MTTR—you can build a high-performance software delivery organization.
+By systematically tracking and responding to these four critical metrics, Cycle Time, Deployment Frequency, Change Failure Rate, and MTTR, you can build a high-performance software delivery organization.
 
 Consistently leverage these insights to optimize your team's efficiency, resilience, and quality.

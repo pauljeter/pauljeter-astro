@@ -5,9 +5,9 @@ pubDate: 2019-08-17
 heroImage: "/images/reactjs.jpg"
 ---
 
-Sometimes when using React.js you’ll need an escape hatch to write imperative-style code to interact directly with DOM elements. Using React’s createRef method allows you to do just that!
+Sometimes when using React.js you'll need an escape hatch to write imperative-style code to interact directly with DOM elements. Using React's createRef method allows you to do just that!
 
-React provides a way to get references to DOM nodes by using React.createRef(). It’s really just an equivalent of this all-too-familiar snippet of JavaScript:
+React provides a way to get references to DOM nodes by using React.createRef(). It's really just an equivalent of this all-too-familiar snippet of JavaScript:
 
 ```javascript
 document.getElementById('foo-id');
@@ -40,7 +40,7 @@ All standard HTML elements in React have a reserved prop called ref (much like s
 > `this.myInput.current` holds the reference to the DOM node
 
 ### Example: Focusing an `<input>`
-Taking that last code snippet, let’s make a small adjustment to demonstrate how we could start interacting with the <input> DOM node:
+Taking that last code snippet, let's make a small adjustment to demonstrate how we could start interacting with the <input> DOM node:
 
 ```javascript
 import React, { Component } from 'react';
@@ -66,7 +66,7 @@ export default class App extends Component {
 }
 ```
 
-Calling the `focus()` method isn’t a React.js thing… it’s a normal JavaScript thing! For example, this is how it’s done with vanilla JavaScript:
+Calling the `focus()` method isn't a React.js thing… it's a normal JavaScript thing! For example, this is how it's done with vanilla JavaScript:
 
 ```javascript
 document.getElementById('myInput').focus();
@@ -108,7 +108,7 @@ export default class App extends Component {
 ```
 
 ## Refs with React Hooks Using useRef
-Refs in React Hooks aren’t much different than `class` components. It’s achieved using the [useRef](https://reactjs.org/docs/hooks-reference.html#useref) hook. Just remember to omit `this` and you are golden
+Refs in React Hooks aren't much different than `class` components. It's achieved using the [useRef](https://reactjs.org/docs/hooks-reference.html#useref) hook. Just remember to omit `this` and you are golden
 
 ```javascript
 import React, { useRef } from "react";
@@ -130,6 +130,6 @@ function App() {
 }
 ```
 
-You can’t use `createRef` for pure functional components since they lack many of the React-y features like state & lifecycle components
+You can't use `createRef` for pure functional components since they lack many of the React-y features like state & lifecycle components
 
 Visit the [React docs](https://reactjs.org/docs/refs-and-the-dom.html) for detailed info about `createRef`.

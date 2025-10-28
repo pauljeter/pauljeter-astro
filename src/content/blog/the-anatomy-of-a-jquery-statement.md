@@ -19,8 +19,8 @@ Every command is made up of four parts: the jQuery function, selectors, actions 
 
 |   **Selector**   |   **Action**   |   **Parameters**   |
 | --- | --- | --- |
-|   jQuery(‘p’)   |   .css   |   (‘color’, ‘red’);   |
-|   $(‘p’)   |   .css   |   (‘color’, ‘red’);   |
+|   jQuery(‘p')   |   .css   |   (‘color', ‘red');   |
+|   $(‘p')   |   .css   |   (‘color', ‘red');   |
 
 In this example, we have selected all of the paragraph tags. Then we chose the css action to modify the CSS properties of the paragraphs on the page. Then we passed the parameters to set the CSS color property to the value red. What will be the result? All of the paragraphs will now be red! The actions and parameters will get more complex as we go along our jQuery journey, but all commands will follow this basic pattern.
 

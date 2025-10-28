@@ -12,6 +12,6 @@ The React Rally event took place in Salt Lake City just two weeks ago but alread
 Here are a few highlights:
 
 - [Kent C Dodds](https://kentcdodds.com/) covering [React hook pitfalls](https://react.statuscode.com/link/69333/caa274e3ff) (a topic he has recently written about too.)
-- [Nicole Sullivan](https://twitter.com/nicole), a PM on the Chrome team, spoke about how [working with frameworks like React is now a core objective of the Blink team](https://react.statuscode.com/link/69335/caa274e3ff) and what they’re doing to make frameworks like React better.
+- [Nicole Sullivan](https://twitter.com/nicole), a PM on the Chrome team, spoke about how [working with frameworks like React is now a core objective of the Blink team](https://react.statuscode.com/link/69335/caa274e3ff) and what they're doing to make frameworks like React better.
 - [Brian Holt](https://twitter.com/brianholt) covered the human side of React and its community.
 - [David Khourshid](https://twitter.com/davidkhourshid) says we should write fewer tests (and use automation and clever techniques to do so, not to stop testing ;-))

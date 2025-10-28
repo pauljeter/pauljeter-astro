@@ -1,25 +1,25 @@
 ---
 title: 'Styling React with Sass and Styled Components'
-description: 'A practical guide comparing Sass and Styled Components in React—covering setup, benefits, and how to decide which to use.'
+description: 'A practical guide comparing Sass and Styled Components in React, covering setup, benefits, and how to decide which to use.'
 pubDate: '2019-09-20'
 heroImage: '/images/sass-styled-components.jpg'
 category: 'React'
 tags: ['react', 'css-in-js', 'sass']
 ---
 
-There’s no shortage of opinions online about how to style your React apps. Should styles live in CSS files? Should they live alongside your components as CSS-in-JS? This article won’t try to convince you one way or the other. Instead, we’ll walk through how to use both Sass and Styled Components in a React application so you can see the trade-offs for yourself.
+There's no shortage of opinions online about how to style your React apps. Should styles live in CSS files? Should they live alongside your components as CSS-in-JS? This article won't try to convince you one way or the other. Instead, we'll walk through how to use both Sass and Styled Components in a React application so you can see the trade-offs for yourself.
 
-We’ll build the same simple social card UI component using each approach. It’ll include an image, username, timestamp, avatar, and status. Nothing fancy—just enough to explore the tooling.
+We'll build the same simple social card UI component using each approach. It'll include an image, username, timestamp, avatar, and status. Nothing fancy, just enough to explore the tooling.
 
 ---
 
-## What’s the Debate About?
+## What's the Debate About?
 
 The core of the CSS-in-JS vs. traditional stylesheets debate is around **separation of concerns**. Should styles live next to your markup and logic? Or should they be in separate files?
 
-There’s no universal answer. Some folks prefer the locality of Styled Components. Others want the simplicity and flexibility of Sass. I've found both useful, and more often than not, I reach for Sass—but that's not a hard rule.
+There's no universal answer. Some folks prefer the locality of Styled Components. Others want the simplicity and flexibility of Sass. I've found both useful, and more often than not, I reach for Sass, but that's not a hard rule.
 
-Let’s look at both so you can decide what works for your projects.
+Let's look at both so you can decide what works for your projects.
 
 ---
 
@@ -119,7 +119,7 @@ Sass is a mature and powerful CSS preprocessor that compiles down to CSS. It giv
 
 ### Setup with Parcel
 
-We’ll use Parcel to keep setup minimal:
+We'll use Parcel to keep setup minimal:
 
 ```bash
 npm install parcel
@@ -237,7 +237,7 @@ Both Sass and Styled Components are powerful, and each has its sweet spots:
 - **Styled Components** are great for component-scoped styles, dynamic theming, and colocating logic and styling.
 - **Sass** shines when you want global styling conventions, easy reuse with mixins, and fast, familiar CSS syntax.
 
-You don’t need to pick one forever. Try both and use what feels right for each project. I lean toward Sass in most production work—but I’ll reach for Styled Components when I want tighter integration with component logic.
+You don't need to pick one forever. Try both and use what feels right for each project. I lean toward Sass in most production work, but I'll reach for Styled Components when I want tighter integration with component logic.
 
 ---
 
