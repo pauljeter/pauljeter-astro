@@ -1,6 +1,6 @@
 ---
 title: 'MCP: The Future of AI Integration'
-description: 'Understand what MCP is, why it's a game-changer for AI extensibility, and how it's shaping a new ecosystem of intelligent, composable applications.'
+description: 'Understand what MCP is, why it’s a game-changer for AI extensibility, and how it’s shaping a new ecosystem of intelligent, composable applications.'
 pubDate: '2025-04-22'
 heroImage: '/images/mcp.jpg'
 category: 'AI'

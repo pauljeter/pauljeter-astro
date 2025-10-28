@@ -1,6 +1,6 @@
 ---
 title: 'The Two Tracks of Growth'
-description: 'There's more than one way to grow. Understanding the management and individual contributor tracks helps your team, and your company, thrive.'
+description: 'There’s more than one way to grow. Understanding the management and individual contributor tracks helps your team, and your company, thrive.'
 pubDate: '2022-06-18'
 heroImage: '/images/management-101.jpg'
 category: 'Management'

@@ -1,6 +1,6 @@
 ---
 title: 'Giving Feedback'
-description: 'Giving great feedback is one of the hardest, and most impactful, skills a manager can learn. Here's how to get better at it.'
+description: 'Giving great feedback is one of the hardest, and most impactful, skills a manager can learn. Here’s how to get better at it.'
 pubDate: '2022-06-04'
 heroImage: '/images/management-101-4.jpg'
 category: 'Management'

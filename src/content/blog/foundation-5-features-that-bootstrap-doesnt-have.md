@@ -1,5 +1,5 @@
 ---
-title: 'Foundation 5 Features That Bootstrap Doesn't Have'
+title: 'Foundation 5 Features That Bootstrap Doesn’t Have'
 description: 'A comparison of features between Bootstrap 3 and Foundation 5 by ZURB.'
 pubDate: '2015-01-15'
 heroImage: '/images/foundation-and-bootstrap.jpg'
@@ -45,7 +45,6 @@ The classes are:
 
 #### Pricing Tables
 Having prebuilt pricing tables is good to have since those can be a complicated thing to style up and get looking good.
-
 
 ### JavaScript Features
 The JavaScript features that Foundation comes with help fill a lot needs that developers could have. Instead of going around searching for different jQuery plugins for a specific feature, it's nice to have them built into the framework you're using.

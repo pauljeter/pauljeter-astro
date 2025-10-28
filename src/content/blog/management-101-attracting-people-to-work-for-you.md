@@ -1,6 +1,6 @@
 ---
 title: 'Attracting People to Work for You'
-description: 'It's not enough to build a great company; you have to draw great people in. Here's how to become a magnet for top talent.'
+description: 'It’s not enough to build a great company; you have to draw great people in. Here’s how to become a magnet for top talent.'
 pubDate: '2022-06-25'
 heroImage: '/images/management-101.jpg'
 category: 'Management'

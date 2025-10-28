@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Promises in JavaScript'
-description: 'Learn what JavaScript promises are, how to use them, and why they're a cleaner alternative to callbacks for handling async operations.'
+description: 'Learn what JavaScript promises are, how to use them, and why they’re a cleaner alternative to callbacks for handling async operations.'
 pubDate: '2018-06-14'
 heroImage: '/images/javascript.jpg'
 category: 'JavaScript'

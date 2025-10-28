@@ -1,6 +1,6 @@
 ---
 title: 'Bringing Yourself to Work'
-description: 'Management is more than delivery, it's emotional work. How embracing authenticity, vulnerability, and trust drives real leadership.'
+description: 'Management is more than delivery, it’s emotional work. How embracing authenticity, vulnerability, and trust drives real leadership.'
 pubDate: '2022-06-01'
 heroImage: '/images/management-101-3.jpg'
 category: 'Management'

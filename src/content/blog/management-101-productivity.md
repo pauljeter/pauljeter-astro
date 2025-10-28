@@ -1,6 +1,6 @@
 ---
 title: 'Productivity'
-description: 'Feeling unproductive as a new manager is common. Here's how to create structure, calm the chaos, and reclaim your sense of progress.'
+description: 'Feeling unproductive as a new manager is common. Here’s how to create structure, calm the chaos, and reclaim your sense of progress.'
 pubDate: '2022-04-30'
 heroImage: '/images/management-101-4.jpg'
 category: 'Management'
